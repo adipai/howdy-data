@@ -1,2 +1,2 @@
 # howdy-data
-PoC for automated large-scale data profiling and validation using great-expectations
+Solution for automated large-scale data profiling and validation using the great-expectations expectations framework.
